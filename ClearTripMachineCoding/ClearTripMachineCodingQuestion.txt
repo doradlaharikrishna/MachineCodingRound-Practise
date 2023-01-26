@@ -1,0 +1,17 @@
+ClearTrip Machine Coding Round Question
+
+room type is delux, supreme only
+
+Inventory means how many rooms available for a night per hotel
+
+user:’tej’, command:’OnboardProperty’
+← Enter the property details:
+→ title Hotel My Place, city Bangalore, star rating 3, rooms [room1:”Deluxe Room”,room2: “Luxury Room”]
+← Onboarded successfully.
+
+user:’tej’, command:’AddInventory’
+← Enter details:
+→ hotel Hotel My Place,room room1, price 3000, rooms_available 3
+← Price and Inventory added Successfully.
+
+
